@@ -4,3 +4,5 @@ Vector3 it's a package made for discord.js mainly, but it can be used in other t
 # Installation and usage
 
 To install it in your project, first, you have to make the **package.json** file (pretty obvious)
+After you've done that use
+`npm install vector3 --save` (**--save is not optional**)
