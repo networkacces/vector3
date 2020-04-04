@@ -11,7 +11,7 @@ npm install vector3
 
 # Requiring in the project
 
-- Write either
+- Because this module needs Node.js you will have to require it, not import it.
 ```Javascript
 const vector3 = require('vector3');
 ```
